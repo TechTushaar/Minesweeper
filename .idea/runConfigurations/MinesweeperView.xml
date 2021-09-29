@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MinesweeperView" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="11" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="MAIN_CLASS_NAME" value="MinesweeperView" />
+    <module name="HW07 Watson try 5" />
+    <option name="VM_PARAMETERS" value="--module-path=&quot;C:\Users\Tushaar\OneDrive\Desktop\CS 1331 Java\javafx-sdk-11.0.2/lib&quot; --add-modules=javafx.controls " />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
